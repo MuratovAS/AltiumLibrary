@@ -10,10 +10,10 @@
 Небольшие изменения в структуризации (в основном коснулось разъемов).
 Изменён шрифт полмолчания на GOST Type B, 10
 
-![Пример дизайна УГО1](https://github.com/MuratovAS/AltiumLibrary/blob/master/IMG/EX_YGO.jpg)
-![Пример дизайна УГО2](https://github.com/MuratovAS/AltiumLibrary/blob/master/IMG/EX_YGO2.jpg)
 
 ![Пример дизайна](https://habrastorage.org/webt/lv/_v/vo/lv_vvojmxbw4kgr854siiyvor2i.png)
+
+![Пример дизайна УГО1](https://github.com/MuratovAS/AltiumLibrary/blob/master/IMG/EX_YGO.jpg)  ![Пример дизайна УГО2](https://github.com/MuratovAS/AltiumLibrary/blob/master/IMG/EX_YGO2.jpg)
 
 # Структура проекта
 
